@@ -16,13 +16,13 @@ Features a **simple, clean UI**, secure authentication, and token-based API call
 
 ### 🖼️ Screens
 
-| Login | Sign Up |
+| Login | Sign Up | All Tasks | 
 |--------|---------|
-| ![Login Screen](./images/login.jpeg) | ![Sign-Up Screen](./images/signup.jpeg) |
+| ![Login Screen](./images/login.jpeg) | ![Sign-Up Screen](./images/signup.jpeg) | ![All Tasks](./images/all_tasks.jpeg)|
 
-| All Tasks | Add Task | Edit Task |
+| Add Task | Edit Task | Delete task
 |------------|-----------|------------|
-| ![All Tasks](./images/all_tasks.jpeg) | ![Add Task](./images/add.jpeg) | ![Edit Task](./images/edit.jpeg) |
+| ![Add Task](./images/add.jpeg) | ![Edit Task](./images/edit.jpeg) | ![Delete Task](./images/delete.jpeg)|
 
 ---
 
